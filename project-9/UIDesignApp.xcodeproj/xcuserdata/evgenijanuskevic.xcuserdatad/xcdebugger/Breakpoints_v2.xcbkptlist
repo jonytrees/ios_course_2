@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5C2D429-6C85-4908-83FB-92541F906085"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "C412F14F-B390-4730-9E80-6C58928B4B83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x7fff5e70746f">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9310596-F44C-4978-A455-386857FED531"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43E8E835-7CA4-45CA-A0D5-9DDE26195D44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD33F029-F699-4FF6-BAB5-E50ADB3B0CF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "GroupsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CD33F029-F699-4FF6-BAB5-E50ADB3B0CF6 - f111360af81fcf31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GroupsTableViewController.searchGroup.getter : Swift.Array&lt;UIDesignApp.GroupsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "CD33F029-F699-4FF6-BAB5-E50ADB3B0CF6 - aeddd2ef5241c325"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GroupsTableViewController.searchGroup.setter : Swift.Array&lt;UIDesignApp.GroupsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "CD33F029-F699-4FF6-BAB5-E50ADB3B0CF6 - 5aea308f6531c52f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GroupsTableViewController.searchGroup.modify : Swift.Array&lt;UIDesignApp.GroupsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "CD33F029-F699-4FF6-BAB5-E50ADB3B0CF6 - c98c8b1622d6557e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GroupsTableViewController.searchGroup.modify : Swift.Array&lt;UIDesignApp.GroupsData&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "CD33F029-F699-4FF6-BAB5-E50ADB3B0CF6 - 634a96c2431c5c64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GroupsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UIDesignApp.GroupsTableViewController"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2409">
+               </Location>
+               <Location
+                  uuid = "CD33F029-F699-4FF6-BAB5-E50ADB3B0CF6 - d371dbcdb2110722"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GroupsTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UIDesignApp.GroupsTableViewController&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDBFB1B5-EFB6-426D-85AA-2EE14C2CF7F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5A2DE3B-0EA0-4697-AE79-02233CC238D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "friendProfile"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D5A2DE3B-0EA0-4697-AE79-02233CC238D6 - bc87e02b2f062509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.postTitle.getter : Swift.String"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "D5A2DE3B-0EA0-4697-AE79-02233CC238D6 - b46c7729be11351d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.postTitle.setter : Swift.String"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "D5A2DE3B-0EA0-4697-AE79-02233CC238D6 - 7c880dc7dbf91460"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.postTitle.modify : Swift.String"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "D5A2DE3B-0EA0-4697-AE79-02233CC238D6 - 93f3624d73e9091d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.postTitle.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "D5A2DE3B-0EA0-4697-AE79-02233CC238D6 - a47185192b0a5346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UIDesignApp.friendProfile"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2729">
+               </Location>
+               <Location
+                  uuid = "D5A2DE3B-0EA0-4697-AE79-02233CC238D6 - e1b69d0e722dd5d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UIDesignApp.friendProfile&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2670">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F3FB9DB-6124-475B-83FC-C11C476E0CFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/PostViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "setPostData(postTitle:postText:postDate:postImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72F34AEB-C0EF-48EF-AD05-3313AC20BAAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B0F1324-0C74-48B9-AB50-D2AE39CDF0BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A83DB274-3790-441F-BC74-65F987896AE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/PostViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "setPostData(postTitle:postText:postDate:postImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FC8B330-5AB2-4C31-A213-2ECE92A724BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/PostViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "setPostData(postTitle:postText:postDate:postImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "423E149D-08C9-4C32-B304-D93A4A41AF55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/PostViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "setPostData(postTitle:postText:postDate:postImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C325ED9-58CF-4D1D-973B-5F7F48A176AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/PostViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "setPostData(postTitle:postText:postDate:postImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E854659-3531-42A3-9B3E-599781B248F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "friendProfile"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2E854659-3531-42A3-9B3E-599781B248F9 - 53baf834374da1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.allPost.getter : Swift.Array&lt;UIDesignApp.PostData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "2E854659-3531-42A3-9B3E-599781B248F9 - 303d296e7e49666a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.allPost.setter : Swift.Array&lt;UIDesignApp.PostData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "2E854659-3531-42A3-9B3E-599781B248F9 - 43dff1a1df22b5f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.allPost.modify : Swift.Array&lt;UIDesignApp.PostData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "2E854659-3531-42A3-9B3E-599781B248F9 - f2f2cb0154ae5f6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.allPost.modify : Swift.Array&lt;UIDesignApp.PostData&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "2E854659-3531-42A3-9B3E-599781B248F9 - a47185192b0a5cc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UIDesignApp.friendProfile"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "3350">
+               </Location>
+               <Location
+                  uuid = "2E854659-3531-42A3-9B3E-599781B248F9 - e1b69d0e722dda55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.friendProfile.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UIDesignApp.friendProfile&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/Friend/friendProfile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "3291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFEE3C07-7ECB-461B-A83B-DB61A71CE8C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/FriendsFolder/FriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDB1E629-0A8F-414B-ADAD-A3931ECCC669"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E272170-D6C7-4AAC-AA7D-A7562776377C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F78FF4B-2A0F-4B56-A327-4544A06AF672"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9218AE5E-0E00-44AE-9F83-A65BC1596862"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/CollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "CollectionViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55A4852D-10BA-4513-9E17-4959376D2408"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "CollectionViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95C313FA-F8E1-4066-8295-B939F3AC6494"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDE734DB-0E3E-4388-802A-9CDBBED6F589"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EC598A7-44ED-4FE2-8457-EF529B387798"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95CCA8C6-B885-4EDB-89BB-4C9A54A5C5DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GalerryPhotosCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "GalerryPhotosCollection"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "95CCA8C6-B885-4EDB-89BB-4C9A54A5C5DA - 3415e9c31d661808"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryContact.getter : Swift.Array&lt;UIDesignApp.AllContactsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "95CCA8C6-B885-4EDB-89BB-4C9A54A5C5DA - c7e7d4fd47ea134"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryContact.setter : Swift.Array&lt;UIDesignApp.AllContactsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "95CCA8C6-B885-4EDB-89BB-4C9A54A5C5DA - a3cd1d55c9c7ee15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryContact.modify : Swift.Array&lt;UIDesignApp.AllContactsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "95CCA8C6-B885-4EDB-89BB-4C9A54A5C5DA - c6c1e38e209370fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryContact.modify : Swift.Array&lt;UIDesignApp.AllContactsData&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "95CCA8C6-B885-4EDB-89BB-4C9A54A5C5DA - 674cd8432661d1e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UIDesignApp.GalerryPhotosCollection"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "442">
+               </Location>
+               <Location
+                  uuid = "95CCA8C6-B885-4EDB-89BB-4C9A54A5C5DA - fc428eb0830a927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UIDesignApp.GalerryPhotosCollection&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "383">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCDAF3B9-93C1-4B8C-9DAB-CC12E4FF9775"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GalerryPhotosCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "GalerryPhotosCollection"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DCDAF3B9-93C1-4B8C-9DAB-CC12E4FF9775 - 30b42dac922df00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryGroup.getter : Swift.Array&lt;UIDesignApp.AllPhotos&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "DCDAF3B9-93C1-4B8C-9DAB-CC12E4FF9775 - 400fa2f7c184d70c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryGroup.setter : Swift.Array&lt;UIDesignApp.AllPhotos&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "DCDAF3B9-93C1-4B8C-9DAB-CC12E4FF9775 - 771b4c664f4e413d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryGroup.modify : Swift.Array&lt;UIDesignApp.AllPhotos&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "DCDAF3B9-93C1-4B8C-9DAB-CC12E4FF9775 - 7614a59bf4aa8272"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.galleryGroup.modify : Swift.Array&lt;UIDesignApp.AllPhotos&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "DCDAF3B9-93C1-4B8C-9DAB-CC12E4FF9775 - 674cd8432661d1e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UIDesignApp.GalerryPhotosCollection"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "323">
+               </Location>
+               <Location
+                  uuid = "DCDAF3B9-93C1-4B8C-9DAB-CC12E4FF9775 - fc428eb0830a927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.GalerryPhotosCollection.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UIDesignApp.GalerryPhotosCollection&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/GalerryPhotosCollection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "237">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB7AC4FB-3417-41B5-A3F9-C257B6106C69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GalerryPhotosCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B2EBF34-BE1C-45DF-8413-18BDF7B30597"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89961CB1-1A67-4304-A995-C355038CC095"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/NewsFolder/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73DCDA00-8EC1-48DA-A620-6A0A10DAE68C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/NewsFolder/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B76A33FC-3E5B-4773-8B15-966819983899"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/NewsFolder/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADC18D36-716F-4281-B3D1-01FC60755EC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/NewsFolder/NewsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "NewsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "ADC18D36-716F-4281-B3D1-01FC60755EC6 - 9598e006d5a5674a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.NewsTableViewController.newsAllInfoGroup.getter : Swift.Array&lt;UIDesignApp.GroupsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/NewsFolder/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "ADC18D36-716F-4281-B3D1-01FC60755EC6 - c439a1778ccf4f6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.NewsTableViewController.newsAllInfoGroup.setter : Swift.Array&lt;UIDesignApp.GroupsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/NewsFolder/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "ADC18D36-716F-4281-B3D1-01FC60755EC6 - f99cccf8a860372c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.NewsTableViewController.newsAllInfoGroup.modify : Swift.Array&lt;UIDesignApp.GroupsData&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/NewsFolder/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "ADC18D36-716F-4281-B3D1-01FC60755EC6 - 55c14584f069585f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.NewsTableViewController.newsAllInfoGroup.modify : Swift.Array&lt;UIDesignApp.GroupsData&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/NewsFolder/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "ADC18D36-716F-4281-B3D1-01FC60755EC6 - b9702ee24cc6cf73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.NewsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UIDesignApp.NewsTableViewController"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/NewsFolder/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "341">
+               </Location>
+               <Location
+                  uuid = "ADC18D36-716F-4281-B3D1-01FC60755EC6 - 3fe4d86a282a131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesignApp.NewsTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UIDesignApp.NewsTableViewController&gt;"
+                  moduleName = "UIDesignApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgenijanuskevic/Desktop/UIDesignApp/UIDesignApp/NewsFolder/NewsTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "282">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "063C3614-56A2-4E8A-BBC4-351FFBCB3BE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GalerryPhotosCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33010F32-5D7F-4DEE-BC69-B3281A15A83C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GalerryPhotosCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03CF45DC-876B-4106-9BEF-EAC95D5F05CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GalerryPhotosCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "collectionView(_:layout:insetForSectionAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54213E43-4DD0-4A5E-A99F-E04C42A8AB56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GalerryPhotosCollection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "collectionView(_:layout:sizeForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED250237-23C7-43B8-B259-B8D9A259590B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE38033E-C82E-4963-9397-288D65D4B324"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/GroupFolder/GroupsTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EDDDDA8-E2E1-4AC3-BF8A-EEB5598D8C7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79161CC8-7BC8-48D7-ABD0-CECFF109A58D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "checkLike()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "902E600E-6FD7-4F89-B3B9-893F456BDDA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "checkLike()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA51C210-3440-4A62-8604-4FCF2DCAF98B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesignApp/Friend/friendProfile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "checkLike()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
