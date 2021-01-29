@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8405DB8425B1BCA8008E50AA /* AnimatedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8405DB8325B1BCA8008E50AA /* AnimatedButton.swift */; };
 		84384A65259A243700A12264 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84384A64259A243700A12264 /* TabBar.swift */; };
+		84495B6825C457060030B85B /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84495B6725C457060030B85B /* Session.swift */; };
 		844A930725A4CE2B0071E1E4 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844A930625A4CE2B0071E1E4 /* PostData.swift */; };
 		844A930F25A4D71A0071E1E4 /* PostViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844A930E25A4D71A0071E1E4 /* PostViewCell.swift */; };
 		84546E3825A8BB5300D4F031 /* ContactsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84546E3725A8BB5300D4F031 /* ContactsData.swift */; };
@@ -64,6 +65,7 @@
 /* Begin PBXFileReference section */
 		8405DB8325B1BCA8008E50AA /* AnimatedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedButton.swift; sourceTree = "<group>"; };
 		84384A64259A243700A12264 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		84495B6725C457060030B85B /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
 		844A930625A4CE2B0071E1E4 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		844A930E25A4D71A0071E1E4 /* PostViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewCell.swift; sourceTree = "<group>"; };
 		84546E3725A8BB5300D4F031 /* ContactsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsData.swift; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 				84384A64259A243700A12264 /* TabBar.swift */,
 				84A0087625A34DAE004284AF /* MyContact.swift */,
 				8498CCE025A3A4CB00DD2F9C /* GroupsData.swift */,
+				84495B6725C457060030B85B /* Session.swift */,
 				844A930625A4CE2B0071E1E4 /* PostData.swift */,
 				84E6A55925A7AA6C00D19EB6 /* AllPhotos.swift */,
 				84546E3725A8BB5300D4F031 /* ContactsData.swift */,
@@ -390,6 +393,7 @@
 				84384A65259A243700A12264 /* TabBar.swift in Sources */,
 				84A0087225A34D50004284AF /* MyProfile.swift in Sources */,
 				844A930F25A4D71A0071E1E4 /* PostViewCell.swift in Sources */,
+				84495B6825C457060030B85B /* Session.swift in Sources */,
 				84546E3825A8BB5300D4F031 /* ContactsData.swift in Sources */,
 				847A704E257A5C5000DAA8FC /* SceneDelegate.swift in Sources */,
 				84E6A55A25A7AA6C00D19EB6 /* AllPhotos.swift in Sources */,
