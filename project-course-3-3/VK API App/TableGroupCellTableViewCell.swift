@@ -10,11 +10,11 @@ import UIKit
 class TableGroupCellTableViewCell: UITableViewCell {
 
    
-    @IBOutlet weak var nameGroupLabel: UILabel!
+    @IBOutlet weak var nameLabel: UILabel!
     var name: String = ""
     
     func setName(name: String) {
-        nameGroupLabel.text = name
+        nameLabel.text = name
     }
     
 }

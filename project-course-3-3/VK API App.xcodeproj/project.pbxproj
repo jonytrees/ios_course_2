@@ -16,6 +16,7 @@
 		8439895B25C8694800135F31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8439895925C8694800135F31 /* LaunchScreen.storyboard */; };
 		8439896425C869DF00135F31 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8439896325C869DF00135F31 /* Session.swift */; };
 		844B1D2A25D7303C006AC9A5 /* GetDataGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844B1D2925D7303C006AC9A5 /* GetDataGroup.swift */; };
+		846D32F925DAF49700873AC5 /* OtherTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D32F825DAF49700873AC5 /* OtherTableView.swift */; };
 		8489D83225D70A1F00352C94 /* Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8489D83125D70A1F00352C94 /* Group.swift */; };
 		8489D83525D70F3E00352C94 /* TableGroupViewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8489D83425D70F3E00352C94 /* TableGroupViewTableViewController.swift */; };
 		8489D83825D70F5500352C94 /* TableGroupCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8489D83725D70F5500352C94 /* TableGroupCellTableViewCell.swift */; };
@@ -35,6 +36,7 @@
 		8439895C25C8694800135F31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8439896325C869DF00135F31 /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
 		844B1D2925D7303C006AC9A5 /* GetDataGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetDataGroup.swift; sourceTree = "<group>"; };
+		846D32F825DAF49700873AC5 /* OtherTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherTableView.swift; sourceTree = "<group>"; };
 		8489D83125D70A1F00352C94 /* Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group.swift; sourceTree = "<group>"; };
 		8489D83425D70F3E00352C94 /* TableGroupViewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableGroupViewTableViewController.swift; sourceTree = "<group>"; };
 		8489D83725D70F5500352C94 /* TableGroupCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableGroupCellTableViewCell.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				8489D83425D70F3E00352C94 /* TableGroupViewTableViewController.swift */,
 				8489D83725D70F5500352C94 /* TableGroupCellTableViewCell.swift */,
 				844B1D2925D7303C006AC9A5 /* GetDataGroup.swift */,
+				846D32F825DAF49700873AC5 /* OtherTableView.swift */,
 			);
 			path = "VK API App";
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				84E8707025D5C0890093F41A /* User.swift in Sources */,
 				8489D83525D70F3E00352C94 /* TableGroupViewTableViewController.swift in Sources */,
 				8439894F25C8694500135F31 /* AppDelegate.swift in Sources */,
+				846D32F925DAF49700873AC5 /* OtherTableView.swift in Sources */,
 				8435846B25C893AB0038F518 /* GetDatesController.swift in Sources */,
 				8439895125C8694500135F31 /* SceneDelegate.swift in Sources */,
 				844B1D2A25D7303C006AC9A5 /* GetDataGroup.swift in Sources */,
