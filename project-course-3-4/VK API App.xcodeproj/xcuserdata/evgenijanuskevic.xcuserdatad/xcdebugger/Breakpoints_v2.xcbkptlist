@@ -336,14 +336,14 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "6C3ECDBD-2129-4CE6-8903-E405896C9CD1 - fbc3164c694caaae"
+                  uuid = "6C3ECDBD-2129-4CE6-8903-E405896C9CD1 - 4b8aa311f8b87713"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "VK_API_App.GetDataGroup.getData() -&gt; ()"
                   moduleName = "VK API App"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/evgenijanuskevic/Desktop/VK%20API%20App/VK%20API%20App/VK%20API%20App/GetDataGroup.swift"
+                  urlString = "file:///Users/evgenijanuskevic/Downloads/ios_course_2--ourse_3_HW_3/project-course-3-3/VK%20API%20App/GetDataGroup.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "23"
@@ -351,14 +351,14 @@
                   offsetFromSymbolStart = "888">
                </Location>
                <Location
-                  uuid = "6C3ECDBD-2129-4CE6-8903-E405896C9CD1 - 286e5a4178a8751b"
+                  uuid = "6C3ECDBD-2129-4CE6-8903-E405896C9CD1 - 9827ef1ce95caf60"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_API_App.GetDataGroup.getData() -&gt; ()"
                   moduleName = "VK API App"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/evgenijanuskevic/Desktop/VK%20API%20App/VK%20API%20App/VK%20API%20App/GetDataGroup.swift"
+                  urlString = "file:///Users/evgenijanuskevic/Downloads/ios_course_2--ourse_3_HW_3/project-course-3-3/VK%20API%20App/GetDataGroup.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "24"
@@ -398,38 +398,6 @@
             endingLineNumber = "30"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "B7B56C5C-2335-4000-B10D-1066CC65FB53 - 38393dfca7a119e7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "VK_API_App.Group.viewDidLoad() -&gt; ()"
-                  moduleName = "VK API App"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/evgenijanuskevic/Desktop/VK%20API%20App/VK%20API%20App/VK%20API%20App/Group.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "30"
-                  endingLineNumber = "30"
-                  offsetFromSymbolStart = "1756">
-               </Location>
-               <Location
-                  uuid = "B7B56C5C-2335-4000-B10D-1066CC65FB53 - e65d58fde266c83d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_API_App.Group.viewDidLoad() -&gt; ()"
-                  moduleName = "VK API App"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/evgenijanuskevic/Desktop/VK%20API%20App/VK%20API%20App/VK%20API%20App/Group.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "31"
-                  endingLineNumber = "31"
-                  offsetFromSymbolStart = "317">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
