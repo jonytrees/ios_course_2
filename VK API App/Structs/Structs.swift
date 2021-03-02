@@ -8,6 +8,18 @@
 import Foundation
 import RealmSwift
 
+
+struct FairbaseNameGroup {
+    var nameUser: String = ""
+    var id: String = ""
+    var name: [String] = []
+
+    func toDictGroup() -> [String: Any] {
+        return ["name user": nameUser, "id": id, "name group": name]
+    }
+}
+
+
 struct UserStruct: Codable {
     var id: Int
     var first_name: String
@@ -28,6 +40,7 @@ struct GroupStruct: Decodable {
     func toGroupObject() -> GroupObject {
         return GroupObject(name: name)
     }
+    
 }
 
 struct PhotoStruct: Decodable {

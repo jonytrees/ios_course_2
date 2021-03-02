@@ -14,8 +14,10 @@ class GroupController: UIViewController, UITableViewDelegate, UITableViewDataSou
     var userId = Session.userInfo.userId
     var version = "5.52"
     var result: [GroupStruct] = []
+    var resultRealm: [GroupStruct] = []
     var groupDates: [GroupStruct] = []
     var groupObject: [GroupObject] = []
+
     private var tokenRealm: NotificationToken?
     @IBOutlet weak var tableView: UITableView!
     
@@ -23,21 +25,22 @@ class GroupController: UIViewController, UITableViewDelegate, UITableViewDataSou
         super.viewDidLoad()
         self.tableView.delegate = self
         self.tableView.dataSource = self
+        
         if let url = URL(string: "https://api.vk.com/method/groups.get?extended=1&fields=bdate&access_token=\(token)&v=\(version)") {
             let session = URLSession.shared
             
-            
             let task = session.dataTask(with: url) { (data, response, error) in
-                let json = try? (JSONSerialization.jsonObject(with: data!, options: .mutableContainers)) as? [String: AnyObject]
+                let json = try? ((JSONSerialization.jsonObject(with: data!, options: .mutableContainers)) as! [String: AnyObject])
                 let main_first = json!["response"]
-                
                 let items =  main_first!["items"]
+
                 do{
                     
                     let itemsData = try JSONSerialization.data(withJSONObject: items!!)
                     
                     self.result = try JSONDecoder().decode([GroupStruct].self, from: itemsData)
-                    let groupArray = Database().readGroup()
+
+                    let groupArray = Databases().readGroup()
                     groupArray?.forEach({self.result.append($0.toGroupStruct())})
                     DispatchQueue.main.async {
                         self.addGroupDatabase()
@@ -51,7 +54,7 @@ class GroupController: UIViewController, UITableViewDelegate, UITableViewDataSou
             task.resume()
         }
         
-        tokenRealm = Database().getRawDataGroup()?.observe({(changes) in
+        tokenRealm = Databases().getRawDataGroup()?.observe({(changes) in
             switch changes {
             case .initial(let initial):
                 UIView.animate(withDuration: 0.6, delay: 0.0, options: [.autoreverse]) {
@@ -72,11 +75,13 @@ class GroupController: UIViewController, UITableViewDelegate, UITableViewDataSou
                 break
             }
         })
+        
+        
     }
     
     func addGroupDatabase() {
-        let db = Database()
-        result.forEach({db.writeGroup($0.toGroupObject())})
+        let db = Databases()
+        resultRealm.forEach({db.writeGroup($0.toGroupObject())})
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

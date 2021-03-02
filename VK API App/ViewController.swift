@@ -7,10 +7,14 @@
 
 import UIKit
 import WebKit
+import Firebase
+//import FirebaseDatabase
 class ViewController: UIViewController {
     
     
     @IBOutlet weak var webView: WKWebView!
+    
+    private var handler: AuthStateDidChangeListenerHandle!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -32,7 +36,22 @@ class ViewController: UIViewController {
         
         webView.load(request)
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        self.handler = Auth.auth().addStateDidChangeListener({ (auth, user) in
+            if user != nil {
+                self.performSegue(withIdentifier: "Profile", sender: nil)
+            print("user is not nil")
+            }
+        })
+    }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        Auth.auth().removeStateDidChangeListener(handler)
+    }
 }
+
+
 
 
 extension ViewController: WKNavigationDelegate {

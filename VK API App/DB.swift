@@ -8,13 +8,13 @@
 import Foundation
 import RealmSwift
 
-class Database {
+class Databases {
     
     private var db: Realm?
     
     init() {
         db = try? Realm()
-        print("file database: \(String(describing: db?.configuration.fileURL))")
+//        print("file database: \(String(describing: db?.configuration.fileURL))")
     }
     
     func write(_ object: UserObject) {

@@ -20,7 +20,7 @@ class PhotoController: UIViewController {
         super.viewDidLoad()
         getData()
         
-        tokenRealm = Database().getRawDataPhoto()?.observe({(changes) in
+        tokenRealm = Databases().getRawDataPhoto()?.observe({(changes) in
             switch changes {
             case .initial(let initial):
                 UIView.animate(withDuration: 0.6, delay: 0.0, options: [.autoreverse]) {
@@ -44,7 +44,7 @@ class PhotoController: UIViewController {
     }
     
     private func addPhotoDatabase() {
-        let db = Database()
+        let db = Databases()
         photoData.forEach({db.writePhoto($0.toPhotoObject())})
     }
     
@@ -67,7 +67,7 @@ class PhotoController: UIViewController {
                     self.photoData = photoDecoder
                     self.addPhotoDatabase()
                     
-                    let photoArray = Database().readPhoto()
+                    let photoArray = Databases().readPhoto()
                     photoArray?.forEach({self.photoData.append($0.toPhotoStruct())})
                     for photo in self.photoData {
                         DispatchQueue.main.async {

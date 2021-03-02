@@ -24,11 +24,11 @@ class UserController: UIViewController {
         super.viewDidLoad()
         getData()
         
-        tokenRealm = Database().getRawDataUser()?.observe({(changes) in
+        tokenRealm = Databases().getRawDataUser()?.observe({(changes) in
             switch changes {
             case .initial(let initial):
                 UIView.animate(withDuration: 0.6, delay: 0.0, options: [.autoreverse]) {
-                    self.view.backgroundColor = .black
+                    self.view.backgroundColor = .red
                 } completion: {(_) in
                 
                 }
@@ -48,7 +48,7 @@ class UserController: UIViewController {
     }
     
     private func addUserDatabase() {
-        let db = Database()
+        let db = Databases()
         userData.forEach({db.write($0.toUserObject())})
     }
     
@@ -67,14 +67,13 @@ class UserController: UIViewController {
                     self.addUserDatabase()
                 
                     
-                    let chArray = Database().read()
+                    let chArray = Databases().read()
                     chArray?.forEach({self.userData.append($0.toUserStruct())})
                     for user in self.userData {
                         DispatchQueue.main.async {
                             self.userName.text = String(user.first_name) + " " + String(user.last_name)
                             self.birthdayUser.text = String(user.bdate)
                             self.userIdLabel.text = String(user.id)
-                            
                         }
                     }
                 }

@@ -13,6 +13,11 @@ class GetDatesController: UIViewController {
     var version = "5.52"
     
     let configuration = URLSessionConfiguration.default
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        Databases()
+    }
 
     @IBAction func friendsButton(_ sender: Any) {
         let session = URLSession(configuration: configuration)
@@ -66,8 +71,5 @@ class GetDatesController: UIViewController {
         }
         task.resume()
     }
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        Database()
-    }
+    
 }
